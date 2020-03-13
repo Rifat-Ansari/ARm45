@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1583417326 source:c:\users\user\desktop\1812712642\task 1\main.cpp
+	"UnsortedType.h"
+	<iostream>
+
+1582985937 c:\users\user\desktop\1812712642\task 1\unsortedtype.h
+	"UnsortedType.tpp"
+
+1583417003 c:\users\user\desktop\1812712642\task 1\unsortedtype.tpp
+	"UnsortedType.h"
+
