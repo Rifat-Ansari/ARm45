@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1514140574 source:d:\lab\225\lab6\array stack\main.cpp
+	<iostream>
+
+1586013647 source:d:\lab\fall 19\225\lab6\array stack\main.cpp
+	<iostream>
+	"stacktype.h"
+
+1586013691 d:\lab\fall 19\225\lab6\array stack\stacktype.h
+	<iostream>
+	"stacktype.tpp"
+
+1585986472 d:\lab\fall 19\225\lab6\array stack\stacktype.tpp
+	"stacktype.h"
+
+1586080594 source:c:\users\user\desktop\1812712642\main.cpp
+	<iostream>
+	<string>
+	"stacktype.h"
+
+1586080519 c:\users\user\desktop\1812712642\stacktype.h
+	<iostream>
+	"stacktype.tpp"
+
+1586066865 c:\users\user\desktop\1812712642\stacktype.tpp
+	"stacktype.h"
+
